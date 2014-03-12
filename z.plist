@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://zambon-update1.mobilitychina.com/zambonprod/z.ipa</string>
+					<string>https://github.com/browntea/testonly/raw/master/z.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -28,4 +28,4 @@
 		</dict>
 	</array>
 </dict>
-</plis
+</plist>
